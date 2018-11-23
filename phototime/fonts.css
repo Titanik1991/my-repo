@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Gotham Medium';
+  src: url('gothamrounded-medium-webfont.woff') format('woff')
+}
+@font-face {
+  font-family: 'Gotham Bold';
+  src: url('gothamrounded-bold-webfont.woff') format('woff')
+}
+@font-face {
+  font-family: 'Gotham Book';
+  src: url('gothamrounded-book-webfont.woff') format('woff')
+}
